@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 - Solution URL: https://getbootstrap.com/docs/5.3/utilities/flex/#align-self
-- Live Site URL: 
+- Live Site URL: https://yacodingroom.github.io/social-proof-section/
 
 ## My process
 ### Built with
